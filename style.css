@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-=======
+
 *{
-    background-color: rgb(52, 136, 214);
+    margin: 0;
+    padding: 0;
 }
 h2{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -17,6 +17,4 @@ h2{
     font-size: 20px;
     font-weight: bold;
     color: rgb(6, 26, 141);
->>>>>>> 86a54f0 (resume jsPractice)
-
-}
+} 
